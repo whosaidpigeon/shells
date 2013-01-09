@@ -1,4 +1,4 @@
 shells
 ======
 
-A place to stick and shell customisations.
+A place to stick any shell customisations.
