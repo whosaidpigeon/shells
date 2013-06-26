@@ -1,0 +1,17 @@
+[user]
+	name = whosaidpigeon
+	email = whosaidpigeon@gmail.com
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+[core]
+	editor = vim
+	autocrlf = input
+[github]
+	user = whosaidpigeon
+	token = a596c21bc4d5b31eb2e7630b10aa0fea
+[color]
+	ui = auto
+[push]
+	default = matching
