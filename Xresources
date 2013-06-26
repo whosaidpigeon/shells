@@ -1,0 +1,15 @@
+! Default that I like
+xterm*termName: xterm-256color
+xterm*locale: true
+xterm*loginshell: true
+xterm*ScrollBar: true
+xterm*SaveLines: 8192
+
+! Colours
+xterm*foreground: rgb:cb/ce/c7
+xterm*background: black
+xterm*dynamicColors: true
+
+! Geometry
+xterm*geometry: 80x25
+
